@@ -62,7 +62,7 @@
 				"navigationBarTitleText": "商品详情"
 			}
 		},
-		{
+    {
 			"path": "pages/map/map",
 			"style": {
 				"navigationBarTitleText": "海图"
